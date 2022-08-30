@@ -6,12 +6,16 @@
     "start": "next start"
   },
   "dependencies": {
-    "@chakra-ui/icons": "^2.0.2",
-    "@chakra-ui/react": "^2.2.1",
+    "@chakra-ui/icons": "^2.0.9",
+    "@chakra-ui/react": "^2.3.1",
     "@chakra-ui/theme-tools": "^2.0.2",
-    "@emotion/react": "^11.9.0",
-    "@emotion/styled": "^11.9.0",
-    "framer-motion": "^6.3.0",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@tanstack/react-query": "^4.2.3",
+    "@tanstack/react-table": "^8.5.11",
+    "@tanstack/react-virtual": "^3.0.0-beta.18",
+    "framer-motion": "^6.5.1",
+    "graphql-request": "^5.0.0",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
